@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="find">Find Snacks</string>
+    <string name="infoss">Books</string>
+    <string-array name="spinner">
+        <item>Soft Drinks</item>
+        <item>Chips</item>
+        <item>Cake</item>
+    </string-array>
+</resources>
